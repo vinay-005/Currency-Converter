@@ -2,7 +2,7 @@
 <br>
 # Currency Converter 💱
 
-A simple and interactive Currency Converter that allows users to convert currency values in real-time. The project includes features like dark mode, input validation, and a swap button for convenience.
+A simple and interactive Currency Converter that allows users to convert currency values in real-time. The project includes features like input validation, and a swap button for convenience.
 
 ---
 
